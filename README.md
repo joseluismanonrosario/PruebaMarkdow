@@ -1,3 +1,4 @@
+![Logo Git](logogit.png)
 # **Git Cheat-Sheet**
 
 ## **Indice**
