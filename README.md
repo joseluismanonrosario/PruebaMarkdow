@@ -18,3 +18,4 @@ Git facilita la colaboración. Todos los miembros del equipo pueden mantener una
 
 De esta forma, diferentes miembros del equipo pueden copiarlo localmente y todos tienen una visión general clara de todos los cambios realizados por todo el equipo.
 
+[Link a Git](https://git-scm.com/)
